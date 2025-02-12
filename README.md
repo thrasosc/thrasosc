@@ -2,4 +2,5 @@
 
 Looking for a server?
 
-[![](https://i.imgur.com/l815YIN.png)](https://bisecthosting.com/PixelDream)
+[![](https://www.bisecthosting.com/images/CF/PixelDreamStudios/SPEC_PixelDreamStudios_Promo.webp)](https://bisecthosting.com/PixelDream)
+
